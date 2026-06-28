@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qammarabbas-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://malikqaa.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qammarabbas4372gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qammarabbas437@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume%2FCV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-cv-link-here)
 
 <br/>
@@ -104,7 +104,11 @@ I don't just analyze data — I build **end-to-end ML systems** that turn raw nu
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-[![View Dashboard](https://img.shields.io/badge/📊%20View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://your-powerbi-link-here)
+**Dashboard Preview:**
+
+| Sales Performance | Customer Behavior | Marketing ROI |
+|:-----------------:|:-----------------:|:-------------:|
+| ![Sales](https://raw.githubusercontent.com/malikqaa/malikqaa/main/assets/revenuepulse-sales.png) | ![Customers](https://raw.githubusercontent.com/malikqaa/malikqaa/main/assets/revenuepulse-customers.png) | ![Marketing](https://raw.githubusercontent.com/malikqaa/malikqaa/main/assets/revenuepulse-marketing.png) |
 
 ---
 
@@ -162,7 +166,7 @@ I don't just analyze data — I build **end-to-end ML systems** that turn raw nu
 |----------|------|
 | 💼 **LinkedIn** | [linkedin.com/in/qammarabbas-dev](https://linkedin.com/in/qammarabbas-dev) |
 | 🌐 **Portfolio** | [malikqaa.vercel.app](https://malikqaa.vercel.app) |
-| 📧 **Email** | [qammarabbas437@gmail.com](mailto:qammarabbas437@gmail.com) |
+| 📧 **Email** | [qammarabbas4372gmail.com](mailto:qammarabbas437@gmail.com) |
 | 🐙 **GitHub** | [github.com/malikqaa](https://github.com/malikqaa) |
 
 </div>
