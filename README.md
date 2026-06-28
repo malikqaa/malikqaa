@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qammarabbas-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://malikqaa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://qammarportfolio-two.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qammarabbas437@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume%2FCV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/malikqaa/malikqaa/blob/main/qammar_resume.pdf)
 
@@ -165,7 +165,7 @@ I don't just analyze data — I build **end-to-end ML systems** that turn raw nu
 | Platform | Link |
 |----------|------|
 | 💼 **LinkedIn** | [linkedin.com/in/qammarabbas-dev](https://linkedin.com/in/qammarabbas-dev) |
-| 🌐 **Portfolio** | [malikqaa.vercel.app](https://malikqaa.vercel.app) |
+| 🌐 **Portfolio** | [malikqaa.vercel.app](https://qammarportfolio-two.vercel.app)|
 | 📧 **Email** | [qammarabbas4372gmail.com](mailto:qammarabbas437@gmail.com) |
 | 🐙 **GitHub** | [github.com/malikqaa](https://github.com/malikqaa) |
 
