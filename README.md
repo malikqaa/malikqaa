@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qammarabbas-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://malikqaa.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qammarabbas437@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume%2FCV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-cv-link-here)
+[![Resume](https://img.shields.io/badge/Resume%2FCV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/malikqaa/malikqaa/blob/main/qammar_resume.pdf)
 
 <br/>
 
@@ -84,7 +84,7 @@ I don't just analyze data — I build **end-to-end ML systems** that turn raw nu
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 [![Live App](https://img.shields.io/badge/🔴%20Live%20App-FF4B4B?style=for-the-badge)](https://huggingface.co/spaces/malikqaa/maternalAi/blob/main/app.py)
-[![Notebook](https://img.shields.io/badge/📓%20Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/your-notebook-link)
+[![Notebook](https://img.shields.io/badge/📓%20Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/1zKJIG3r-b0bNarghvAQ6YsQ-7XaN_BWT?usp=sharing)
 
 ---
 
