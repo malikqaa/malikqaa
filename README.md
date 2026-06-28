@@ -160,9 +160,9 @@ I don't just analyze data — I build **end-to-end ML systems** that turn raw nu
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/qammar-abbas](https://linkedin.com/in/qammarabbas-dev) |
+| 💼 **LinkedIn** | [linkedin.com/in/qammarabbas-dev](https://linkedin.com/in/qammarabbas-dev) |
 | 🌐 **Portfolio** | [malikqaa.vercel.app](https://malikqaa.vercel.app) |
-| 📧 **Email** | [qammarabbas@example.com](mailto:qammarabbas437@gmail.com) |
+| 📧 **Email** | [qammarabbas437@gmail.com](mailto:qammarabbas437@gmail.com) |
 | 🐙 **GitHub** | [github.com/malikqaa](https://github.com/malikqaa) |
 
 </div>
