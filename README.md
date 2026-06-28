@@ -152,7 +152,7 @@ I don't just analyze data — I build **end-to-end ML systems** that turn raw nu
 
 > Looking to collaborate, hire, or just connect? Grab my CV below.
 
-[![Download CV](https://img.shields.io/badge/⬇️%20Download%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-cv-link-here)
+[![Download CV](https://img.shields.io/badge/⬇️%20Download%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/malikqaa/malikqaa/blob/main/qammar_resume.pdf)
 
 *Available in Data Science and Full-Stack profiles.*
 
