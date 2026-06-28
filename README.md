@@ -108,7 +108,7 @@ I don't just analyze data — I build **end-to-end ML systems** that turn raw nu
 
 | Sales Performance | Customer Behavior | Marketing ROI |
 |:-----------------:|:-----------------:|:-------------:|
-| ![Sales](https://raw.githubusercontent.com/malikqaa/malikqaa/main/assets/revenuepulse-sales.png) | ![Customers](https://raw.githubusercontent.com/malikqaa/malikqaa/main/assets/revenuepulse-customers.png) | ![Marketing](https://raw.githubusercontent.com/malikqaa/malikqaa/main/assets/revenuepulse-marketing.png) |
+| ![Sales](https://github.com/malikqaa/malikqaa/blob/main/revenuepulse-sales.png) | ![Customers](https://github.com/malikqaa/malikqaa/blob/main/revenuepulse-customers.png) | ![Marketing](https://github.com/malikqaa/malikqaa/blob/main/revenuepulse-marketing.png) |
 
 ---
 
